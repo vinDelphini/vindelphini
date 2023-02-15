@@ -28,8 +28,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vindelphini" alt="vindelphini" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vindelphini&show_icons=true&locale=en&layout=compact" alt="vindelphini" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vindelphini&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vindelphini" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vindelphini&show_icons=true&locale=en" alt="vindelphini" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vindelphini&show_icons=true&locale=en&theme=tokyonight" alt="vindelphini" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vindelphini&" alt="vindelphini" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vindelphini&&theme=tokyonight" alt="vindelphini" /></p>
