@@ -7,7 +7,7 @@
 
 - 🌱I’m currently learning **Advanced Python, AWS Data Engineering**
 
-- 👯 I’m looking to collaborate on **AWS/Azure Django projects**
+- 👯 I’m looking to collaborate on **Django projects**
 
 - 🤝 I’m looking for help with **contributing to Open Source projects in Django**
 
