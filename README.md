@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vindelphini&label=Profile%20views&color=0e75b6&style=flat" alt="vindelphini" /> </p>
 
-- 🌱I’m currently learning **Advanced Python, AWS Data Engineering**
+- 🌱I’m currently learning **Adv Python, AWS Data Engg**
 
 - 👯 I’m looking to collaborate on **Django projects**
 
