@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vindelphini&label=Profile%20views&color=0e75b6&style=flat" alt="vindelphini" /> </p>
 
-- 🌱I’m currently learning **Adv Python, AWS Data Engg**
+- 🌱I’m currently learning **Adv GO language & SRE concepts**
 
-- 👯 I’m looking to collaborate on **Django projects**
+- 👯 I’m looking to collaborate on **learning new programming languages**
 
-- 🤝 I’m looking for help with **contributing to Open Source projects in Django**
+- 🤝 I’m looking for help with **contributing to Open Source projects in GO language**
 
 - 📝 I regularly write articles on [https://medium.com/@betadelphini.py](https://medium.com/@betadelphini.py)
 
