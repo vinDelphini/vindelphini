@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vindelphini&label=Profile%20views&color=0e75b6&style=flat" alt="vindelphini" /> </p>
 
-- 🌱I’m currently learning **Adv GO language & SRE concepts**
+- 🌱I’m currently learning **Adv RUST language & Advanced Video Rendering**
 
 - 👯 I’m looking to collaborate on **learning new programming languages**
 
