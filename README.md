@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **learning new programming languages**
 
-- 🤝 I’m looking for help with **contributing to Open Source projects in GO language**
+- 🤝 I’m looking for help with **contributing to Open Source projects in RUST**
 
 - 📝 I regularly write articles on [https://medium.com/@betadelphini.py](https://medium.com/@betadelphini.py)
 
