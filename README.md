@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vin Bolisetti</h1>
-<h3 align="center">A passionate Cloud Application Developer/Architect - Python | AWS 🥷</h3>
+<h3 align="center">A passionate Cloud Application Developer/Architect - Python | Rust | React | AWS 🥷</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vindelphini&label=Profile%20views&color=0e75b6&style=flat" alt="vindelphini" /> </p>
 
-- 🌱I’m currently learning **Adv RUST language & Advanced Video Rendering**
+- 🌱I’m currently learning **Adv Rust language & Advanced Video Rendering**
 
 - 👯 I’m looking to collaborate on **learning new programming languages**
 
