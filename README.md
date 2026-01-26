@@ -12,14 +12,6 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
 
 ---
 
-### 🦀 Open Source
-- **Contributor to the official Rust compiler (`rust-lang/rust`)**
-  - PR: https://github.com/rust-lang/rust/pull/151668
-  - Implemented `DoubleEndedIterator::next_chunk_back` — the reverse counterpart to `Iterator::next_chunk`
-  - Added `GuardBack` helper for **panic-safe back-to-front initialization**
-
----
-
 ### 💻 What I Work On
 - Backend & cloud-native systems
 - High-performance and correctness-focused Rust components
